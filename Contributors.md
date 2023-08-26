@@ -68,6 +68,7 @@
 - [Folarin]
 - [Pranav]
 - @wangbeishan
+- [Akash-Shirale](https://github.com/akashshirale14)
 - [ipatrikxz](https://github.com/ipatrikxz)
 - [LainTS](https://github.com/laindomJS)
 - [Caleb Lugo] (https://github.com/CNL-Dev)
